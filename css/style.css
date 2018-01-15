@@ -1,0 +1,33 @@
+body{
+	margin: 0;
+}
+
+.box{
+	height: 400px;
+	width: 24%;
+	margin: 5px;
+	float: left;
+	text-align: center;
+}
+
+p{
+	margin: 8px;
+}
+
+.texto{
+	text-align: left;
+	padding: 0 120px;
+
+}
+
+nav{
+	background-color: cyan;
+	margin: 0;
+	height: 50px;
+	position: sticky;
+	top:  0;
+}
+
+h2{
+	margin: 0;
+}
